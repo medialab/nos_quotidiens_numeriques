@@ -18,10 +18,10 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-Install ollama and mistral-small :
+Install ollama and mistral :
 
 ```sh
-ollama pull mistral-small
+ollama pull mistral
 ```
 
 Install dependencies:

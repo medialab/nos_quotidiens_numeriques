@@ -7,4 +7,4 @@ pip install sounddevice soundfile numpy pynput faster-whisper python-escpos
 # brew install portaudio
 
 # Debian / Ubuntu
-sudo apt install portaudio19-dev
+# sudo apt install portaudio19-dev
